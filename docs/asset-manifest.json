@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/stable-diffusion-workshop/static/css/main.31d6cfe0.css",
+    "main.js": "/stable-diffusion-workshop/static/js/main.43c8577a.js",
+    "static/js/787.24201c7c.chunk.js": "/stable-diffusion-workshop/static/js/787.24201c7c.chunk.js",
+    "index.html": "/stable-diffusion-workshop/index.html",
+    "main.43c8577a.js.map": "/stable-diffusion-workshop/static/js/main.43c8577a.js.map",
+    "787.24201c7c.chunk.js.map": "/stable-diffusion-workshop/static/js/787.24201c7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.43c8577a.js"
+  ]
+}
